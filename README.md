@@ -1,7 +1,7 @@
 # README.md
 # # Habit Tracking
 
-This is my coding challenge submission for day #37 of the 100 Days of Code: The Complete Python Pro Bootcamp, instructor-led training
+This is my coding challenge submission for day #37 of the 100 Days of Code: The Complete Python Pro Bootcamp, instructor-led training.
 
 This Python app provides a simple interface to make requests to Pixela, a graph data service. With this app, you can POST a new user account, POST a new graph, POST data for a new pixel, PUT updates for a pixel, and DELETE a pixel.
 
